@@ -9,10 +9,10 @@ Barcelona
 
 Se puede encontrar:
 
--JavierMC_ECA.ino: Código principal del Trabajo de Final de Grado
+-TFG_ECA_JavierMC.ino: Código principal del Trabajo de Final de Grado
 
 -FirebasePruebaECA: Código prueba de la estación de calidad de aire con el aplicativo de Google Firebase
 
 -ThingSpeakPruebaECA: Código prueba de la estación de calidad de aire con el aplicativo de MathWorks ThingSpeak
 
-Todas las bibliotecas utilizadas en los cógidos presentes han sido extraídas de los repositorios de Github dedicados y de las empresas fabricantes o comercializadoras de los dispositivos y/o sensores. 
+Todas las bibliotecas utilizadas en los cógidos presentes han sido extraídas y adecuadas de la libreria de Arduino, repositorios de Github dedicados y/o de las empresas fabricantes/comercializadoras de los dispositivos y/o sensores. 
