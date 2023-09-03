@@ -14,3 +14,5 @@ Se puede encontrar:
 -FirebasePruebaECA: Código prueba de la estación de calidad de aire con el aplicativo de Google Firebase
 
 -ThingSpeakPruebaECA: Código prueba de la estación de calidad de aire con el aplicativo de MathWorks ThingSpeak
+
+Todas las bibliotecas utilizadas en los cógidos presentes han sido extraídas de los repositorios de Github dedicados y de las empresas fabricantes o comercializadoras de los dispositivos y/o sensores. 
