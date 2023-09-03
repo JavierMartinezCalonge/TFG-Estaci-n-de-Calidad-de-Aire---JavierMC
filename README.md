@@ -15,6 +15,8 @@ Se puede encontrar:
 
 -ThingSpeakPruebaECA: Código prueba de la estación de calidad de aire con el aplicativo de MathWorks ThingSpeak
 
+-Conjunto de archivos necesarios para el uso de los códigos anteriores.
+
 Todas las bibliotecas utilizadas en los cógidos presentes han sido extraídas y adecuadas de las bibliotecas y librerias de Arduino, repositorios de Github dedicados y/o de las empresas fabricantes/comercializadoras de los dispositivos. 
 
 ¡Muchísimas gracias por su atención y colaboración!
