@@ -1,4 +1,4 @@
-# TFG-Estaci-n-de-Calidad-de-Aire---JavierMC
+# TFG-Estación-de-Calidad-de-Aire---JavierMC
 Códigos realizados para el Trabajo de Fin de Grado del Grado en Ingeniería en Tecnologías Industriales, Instituto Químico de Sarrià
 
 Título: Desarollo de una estación de calidad de aire econémica mediante el Internet de las Cosas
